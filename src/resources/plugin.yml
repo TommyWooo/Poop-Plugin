@@ -1,0 +1,9 @@
+name: PoopyPluginByTommy
+description: "Tommy's first plugin - A simple plugin where you can poop by simply shifting... and then pooping."
+author: ExampleAuthor
+main: com.example.Main
+version: 1.0
+
+commands:
+  credits:
+    description: "Made by Tommy - Jul 26 - v8 "
