@@ -1,5 +1,5 @@
-#Poop Plugin
-###Made by Tommy (8
+# Poop Plugin
+### Made by Tommy (8
 
 A simple plugin where when you sneak, you poop. 
 
@@ -7,18 +7,18 @@ I'm still quite new to Java, so any issues/requests might be ignored or take a w
 
 Anyways thank you for installing this plugin.
 
-##Tested Minecraft Versions
+## Tested Minecraft Versions
   - 1.8
-##Native Minecraft Version
+## Native Minecraft Version
   - 1.8
-##Supported server api:
+## Supported server api:
   - Spigot (and its forks)
-##Languages
+## Languages
   - English (I can add language later maybe)
 
 
-##How to build:
-###Dependencies
+## How to build:
+### Dependencies
 - Java 8
 - Maven
 In the directory that the Pom.xml is in,
